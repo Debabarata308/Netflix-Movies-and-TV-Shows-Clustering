@@ -69,6 +69,7 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 * Also, Mexico and Spain have similar content on Netflix for different age group
 
+#**Conclusion**
 
 1.   Data set contains 7787 rows and 12 columns in that cast and director features contains large number of missing values so we can drop it and we have 10 features for the further implementation 
 2.   We have two types of content TV shows and Movies (30.86% contains TV shows and 69.14% contains Movies)
