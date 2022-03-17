@@ -69,3 +69,31 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 * Also, Mexico and Spain have similar content on Netflix for different age group
 
+
+1.   Data set contains 7787 rows and 12 columns in that cast and director features contains large number of missing values so we can drop it and we have 10 features for the further implementation 
+2.   We have two types of content TV shows and Movies (30.86% contains TV shows and 69.14% contains Movies)
+
+3.   By analysing the content added over years we get to know that in recent years netflix is focusing movies than TV shows (movies is increased by 80% and TV shows is increased by 73% compare to 2016 data)
+
+4.   The most number of the movies and TV shows release in 2017 and 2020 respectively and united nation have the maximum content on netflix 
+
+5.   On Netflix, Dramas genre contains the maximum content among all of the genres and the most of the content added in december month and less content in february 
+
+6.   By applying the silhouette score method for n range clusters on dataset we got best score which is 0.348 for 3 clusters it means content explained well on their own clusters, by using elbow method after k = 3 curve gets linear it means k = 3 will be the best cluster
+
+7.   Applied different clustering models Kmeans, hierarchical, Agglomerative clustering  on data we got the best cluster arrangments 
+
+8.   By applying different clustering algorithms to our dataset .we get the optimal number of cluster is equal to 3
+
+
+
+
+
+
+
+
+
+
+
+
+
